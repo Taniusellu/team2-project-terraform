@@ -28,9 +28,8 @@ Engine version: 5.6.10a
  Made use of interpolations in our db_cluster file
 
 #### commands used to run our code: (run commands under the main repo)
-terraform init
 
-source sentenv.sh comfigurations/regions/us-east-1.tfvars
+source sentenv.sh configurations/regions/us-east-1.tfvars
 
 terraform apply -var-file configurations/us-east-1.tfvars
 

@@ -30,7 +30,7 @@ Engine version: 5.6.10a
 #### commands used to run our code: (run commands under the main repo)
 
 source sentenv.sh configurations/regions/us-east-1.tfvars
-
+ 
 terraform apply -var-file configurations/us-east-1.tfvars
 
 #### created output.tf file to include our DB name, region, endpoints of our DB for Team3. 

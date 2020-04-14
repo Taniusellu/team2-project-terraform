@@ -1,7 +1,7 @@
 
 ### SITUATION:
 
- ###Create database using AWS RDS with terraform on a custom VPC created by Team1.
+ ### Create database using AWS RDS with terraform on a custom VPC created by Team1.
  ### Pre-requisites
 
 Terraform version: 0.11.14
